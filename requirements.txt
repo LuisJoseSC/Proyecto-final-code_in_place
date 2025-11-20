@@ -1,0 +1,1 @@
+# No hay dependencias de pip; se usa Ollama instalado localmente.
